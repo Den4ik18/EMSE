@@ -59,7 +59,7 @@
 
 # :eight_spoked_asterisk: Автори
 
-Проект розроблений Denys Ohorodnik [(t.me)](https://t.me/denys_ohorodnik) [(mail)](den.ohorodnik@gmail.com).
+Проект розроблений Denys Ohorodnik [(t.me)](https://t.me/denys_ohorodnik) [(mail)](https://den.ohorodnik@gmail.com).
 
 # :eight_spoked_asterisk: Висновки
 Розробивши даний проект я ознайомився з підключенням датасетів, підготовкою їхніх даний до нормального вигляду, реалізував різні цікаві та корисні функції для датасетів, оформив багато графіків для моїх даних.
